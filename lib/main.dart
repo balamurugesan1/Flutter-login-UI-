@@ -133,7 +133,7 @@ class _MyAppState extends State<MyApp> {
                       ),
                     ),
                     SizedBox(
-                      height: 50,
+                      height: 60,
                     ),
                     Text(
                       'Continue with',
